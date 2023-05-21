@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'pagialoboo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DA244D3D4A44C47ADE9AEA868FAAA7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21EF591C31CF4BF9B5F8DA6079A6E648 }}
           package: .
